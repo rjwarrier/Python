@@ -3,7 +3,7 @@ import re             # For using regular expressions to extract structured text
 import os             # For handling file paths
 
 # Step 1: Define the path to the input 26AS text file
-source_path = r'C:\Users\ranji\Downloads\ARXPR8200M-2015\ARXPR8200M-2015.txt'
+source_path = r'C:\Users\ranji\OneDrive\Academics\Classes Taken By Me\Advanced ITT\2025_Syllabus\Study Materials\Files\AXXXX4623X-2015.txt'
 
 # Step 2: Get the folder path where the source file is located
 output_dir = os.path.dirname(source_path)

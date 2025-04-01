@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Step 1: Define the folder containing the CSV files
-folder_path = r'C:\Users\ranji\OneDrive\Academics\Classes Taken By Me\Advanced ITT\2021_Syllabus\Class Materials\Excel\PowerQuery\BhavCopy'  # <-- Change this path
+folder_path = r'C:\Users\ranji\Downloads\BhavCopy'  # <-- Change this path
 
 # Step 2: Define the output file name
 output_filename = 'Combined_Bhavcopy.csv'  # <-- Change the name if needed
